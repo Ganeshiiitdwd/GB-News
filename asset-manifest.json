@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ganeshiiitdwd/GB-News.git/static/css/main.36e43cf2.css",
-    "main.js": "/Ganeshiiitdwd/GB-News.git/static/js/main.becb2d0f.js",
-    "index.html": "/Ganeshiiitdwd/GB-News.git/index.html",
-    "main.36e43cf2.css.map": "/Ganeshiiitdwd/GB-News.git/static/css/main.36e43cf2.css.map",
-    "main.becb2d0f.js.map": "/Ganeshiiitdwd/GB-News.git/static/js/main.becb2d0f.js.map"
+    "main.css": "/%E2%80%9Chttps://Ganeshiiitdwd.github.io/GB-News/static/css/main.36e43cf2.css",
+    "main.js": "/%E2%80%9Chttps://Ganeshiiitdwd.github.io/GB-News/static/js/main.89dc7dbd.js",
+    "index.html": "/%E2%80%9Chttps://Ganeshiiitdwd.github.io/GB-News/index.html",
+    "main.36e43cf2.css.map": "/%E2%80%9Chttps://Ganeshiiitdwd.github.io/GB-News/static/css/main.36e43cf2.css.map",
+    "main.89dc7dbd.js.map": "/%E2%80%9Chttps://Ganeshiiitdwd.github.io/GB-News/static/js/main.89dc7dbd.js.map"
   },
   "entrypoints": [
     "static/css/main.36e43cf2.css",
-    "static/js/main.becb2d0f.js"
+    "static/js/main.89dc7dbd.js"
   ]
 }

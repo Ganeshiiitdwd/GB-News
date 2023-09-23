@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ganeshiiitdwd/GB-News.git/static/css/main.36e43cf2.css",
+    "main.js": "/Ganeshiiitdwd/GB-News.git/static/js/main.becb2d0f.js",
+    "index.html": "/Ganeshiiitdwd/GB-News.git/index.html",
+    "main.36e43cf2.css.map": "/Ganeshiiitdwd/GB-News.git/static/css/main.36e43cf2.css.map",
+    "main.becb2d0f.js.map": "/Ganeshiiitdwd/GB-News.git/static/js/main.becb2d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e43cf2.css",
+    "static/js/main.becb2d0f.js"
+  ]
+}

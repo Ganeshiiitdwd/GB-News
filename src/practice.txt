@@ -1,0 +1,8 @@
+const router=createbrowserrouter([
+    {path:, element:, children:[
+        {index:true, element, },
+        {path;, element},
+        {path:/produxtid/:propid, element:}
+    ]}
+])
+<RouterProvider router={router}/>
